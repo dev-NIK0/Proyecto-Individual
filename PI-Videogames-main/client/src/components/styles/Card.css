@@ -1,0 +1,68 @@
+.classCard{
+    color: rgb(0, 0, 0);
+     
+}
+.imgCard{
+    border: 5px solid rgb(243, 141, 90);
+    border-width: 15px;
+    border-radius: 10%;
+}
+.h2Card{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 10px solid rgb(243, 141, 90);
+    border-radius: 500px;
+    border-top: 0px;
+    border-bottom: 0px;
+    background-color: rgb(121, 235, 197);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.h4Genres{
+    text-align: center;
+    border: 5px solid rgba(255, 3, 3, 0.71);
+    border-radius: 20px;
+    background-color: bisque;
+    width: 100px;
+    height: 30px;
+    padding-top: 15px;
+    margin-left: 86px;
+}
+.pGenre{
+    text-align: center;
+    border: 5px solid rgba(255, 3, 3, 0.71);
+    border-radius: 20px;
+    border-top: 0px;
+    border-bottom: 0px;
+    background-color: bisque;
+    width: 100px;
+    height: 30px;
+    padding-top: 15px; 
+}
+.divGenre{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-items: center;
+}
+.h4Rating{
+    text-align: center;
+    border: 5px solid rgba(255, 3, 3, 0.71);
+    border-radius: 20px;
+    background-color: bisque;
+    width: 100px;
+    height: 30px;
+    padding-top: 15px;
+    margin-left: 86px;
+}
+.pRating{
+    border: 5px solid rgba(255, 3, 3, 0.71);
+    border-radius: 20px;
+    border-top: 0px;
+    border-bottom: 0px;
+    background-color: bisque;
+    width: 100px;
+    height: 30px;
+    padding-top: 15px; 
+    text-align: center;
+    margin-left: 86px;
+}
+

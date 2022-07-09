@@ -1,0 +1,30 @@
+.searchBar{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 60px;
+    padding-top: 30px;
+    padding-left: 800px;
+    
+}
+
+#inputSearch{
+    color: rgb(0, 0, 0);
+    background-color: rgb(55, 227, 110);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4em;
+    text-align: center;
+    
+}
+.buttonSearchBar{
+    border-width: 4px;
+    border-radius: 4em;
+    height: 40px;
+    width: 155px;
+    flex-direction: row-reverse;
+    text-align: center;
+    border-color:rgb(0, 174, 130);
+    background-color: rgba(169, 56, 230, 0.336)
+}
+.buttonSearchBar:hover{
+    color: white;
+}
